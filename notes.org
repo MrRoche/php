@@ -9,7 +9,7 @@
 现在的名字:
 : PHP is Hypertext Preprocessor, 超文本预处理器
 
-200x 开始，互联网潮流催生了 LAMP 组合:
+200x 开始，互联网潮流催生了 =LAMP= 组合:
 - L: linux
 - A: Apache
 - M: MySQL
@@ -17,11 +17,11 @@
 
 开发的时候，常用组合是 WAMP，其中把 LINUX 换成了 WINDOWS：
 0. 安装 Windows 操作系统
-1. 下载 [[https://www.apachelounge.com/download/][Apache]] 服务器
-2. 下载 [[https://downloads.mariadb.org/mariadb/10.2.11/][MySQL/MariaDB]] 数据库
-3. 下载 [[http://windows.php.net/download/][PHP]] 语言 (x64 Thread Safe)
+1. 安装 [[https://downloads.mariadb.org/mariadb/10.2.11/][MySQL/MariaDB]] 数据库
+2. 下载并解压缩 [[https://www.apachelounge.com/download/][Apache]] 服务器
+3. 下载并解压缩 [[http://windows.php.net/download/][PHP]] 语言 (x64 Thread Safe)
 
-将上面下载的所有组件解压缩到某个人文件夹，并添加环境变量。
+为 Apache 和 PHP 添加环境变量。
 : 提问: 为什么要添加环境变量？？？
 
 接下来，配置三个组件。
