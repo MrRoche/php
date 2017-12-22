@@ -3,6 +3,21 @@
 
 * 安装
 
+最开始的名字：
+: PHP(Personal Home Page), 个人主页
 
+现在的名字:
+: PHP is Hypertext Preprocessor, 超文本预处理器
 
+200x 开始，互联网潮流催生了 LAMP 组合:
+- L: linux
+- A: Apache
+- M: MySQL
+- P: PHP
+
+开发的时候，常用组合是 WAMP，其中把 LINUX 换成了 WINDOWS：
+1. 安装 Windows 操作系统
+2. 安装 [[https://www.apachelounge.com/download/][Apache]] 服务器
+3. 安装 [[https://downloads.mariadb.org/mariadb/10.2.11/][MySQL/MariaDB]] 数据库
+4. 安装 [[http://windows.php.net/download/][PHP]] 语言 (x64 Thread Safe)
 
